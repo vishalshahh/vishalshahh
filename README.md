@@ -38,9 +38,14 @@ Here are some things on my todo list.
 - _Consistent to do post daily on Twitter._ ❤️
 
 <h2 style="margin-bottom: -10px;">📈 My GitHub Stats</h2>
-<img src="Assets/borderseperator.gif" style="margin-top: 6; display: block; line-height: 0;">
+<img src="Assets/borderseperator.gif" style="margin-top: 5; display: block; line-height: 0;">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C107%20hrs%2021%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-805-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.1%20million%20lines%20of%20code-blue)
 
 ```txt
 From: 03 October 2024 - To: 08 October 2024
