@@ -1,16 +1,14 @@
 name: update-gh-activity
-
 on:
-  workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: '0 12 * * *'
-
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
