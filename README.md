@@ -47,13 +47,15 @@ Here are some things on my todo list.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2037%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-179-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 72.5 kB Used in GitHub's Storage 
  > 
-> 🏆 70 Contributions in the Year 2024
+> 🏆 68 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,10 +66,10 @@ Here are some things on my todo list.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-🌆 Daytime                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-🌃 Evening                37 commits          █████████░░░░░░░░░░░░░░░░   34.58 % 
-🌙 Night                  56 commits          █████████████░░░░░░░░░░░░   52.34 % 
+🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+🌆 Daytime                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+🌃 Evening                37 commits          █████████░░░░░░░░░░░░░░░░   34.26 % 
+🌙 Night                  57 commits          █████████████░░░░░░░░░░░░   52.78 % 
 ```
 
 
@@ -89,10 +91,13 @@ vishalshahh-main         1 hr 2 mins         █████░░░░░░�
 portfolio                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 resume                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+💻 Operating System: 
+Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/10/2024 21:57:04 UTC
+ Last Updated on 08/10/2024 22:00:43 UTC
 <!--END_SECTION:waka-->
 
 </br>
