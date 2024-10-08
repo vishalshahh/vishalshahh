@@ -37,8 +37,7 @@ Here are some things on my todo list.
 - _Starting to work on Web3 projects_ ⚙️
 - _Consistent to do post daily on Twitter._ ❤️
 
-<h2 style="margin-bottom: -15px;">📈 My GitHub Stats</h2>
-<img src="Assets/borderseperator.gif" style="margin-top: 10; display: block; line-height: 0;">
+## 📈 My GitHub Stats
 
 <!--START_SECTION:waka-->
 
@@ -56,10 +55,9 @@ HTML         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-</br
+</br>
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=vishalshahh&theme=tokyo-night)
-<img src="Assets/borderseperator.gif">
 
 [![Actions Status](https://github.com/vishalshahh/vishalshahh/workflows/wakatime-stats/badge.svg)](https://github.com/vishalshahh/vishalshahh/actions)
 [![Actions Status](https://github.com/vishalshahh/vishalshahh/workflows/update-gh-activity/badge.svg)](https://github.com/vishalshahh/vishalshahh/actions)
