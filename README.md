@@ -37,7 +37,7 @@ Here are some things on my todo list.
 - _Starting to work on Web3 projects_ ⚙️
 - _Consistent to do post daily on Twitter._ ❤️
 
-## :zap: Recent Activity:
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
