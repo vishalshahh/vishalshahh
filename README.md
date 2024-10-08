@@ -40,7 +40,6 @@ Here are some things on my todo list.
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
 
