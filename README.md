@@ -58,7 +58,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🌐 Socials:
-<a href="https://twitter.com/vishalshahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nevergivetime" height="30" width="40" /></a>
+<a href="https://twitter.com/vishalshahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalshahh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishalshahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishalshahh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22453869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22453869" height="30" width="40" /></a>
 <a href="https://instagram.com/vishalshah.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="visu._.001" height="30" width="40" /></a>
@@ -68,9 +68,6 @@
 <a href="https://www.leetcode.com/vishal0015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishal0015" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vishal0015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishal0015" height="30" width="40" /></a>
 </p>
-<br/>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-<br/>
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
