@@ -1,4 +1,4 @@
-![Header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+<img src="Assets/code.gif" alt="Header" style="margin-bottom: 0;" />
 
 <h2> Hi there, I'm Vishal Shah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
