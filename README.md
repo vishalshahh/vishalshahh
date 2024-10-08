@@ -65,6 +65,9 @@ HTML         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=vishalshahh&theme=tokyo-night)
 <img src="Assets/borderseperator.gif">
 
+[![Actions Status](https://github.com/vishalshahh/vishalshahh/workflows/wakatime-stats/badge.svg)](https://github.com/vishalshahh/vishalshahh/actions)
+[![Actions Status](https://github.com/vishalshahh/vishalshahh/workflows/update-gh-activity/badge.svg)](https://github.com/vishalshahh/vishalshahh/actions)
+
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
