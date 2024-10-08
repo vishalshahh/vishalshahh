@@ -1,12 +1,13 @@
 name: Update stats
 
 on:
+  workflow_dispatch: # for manual workflow trigger
   schedule:
     - cron: "0 11 * * *" # every 24 hours
   push:
     branches:
       - master
-
+      
 jobs:
   publish:
     runs-on: ubuntu-latest
