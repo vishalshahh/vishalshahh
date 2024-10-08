@@ -37,7 +37,7 @@ Here are some things on my todo list.
 - _Starting to work on Web3 projects_ ⚙️
 - _Consistent to do post daily on Twitter._ ❤️
 
-**:zap: Recent Activity:**
+##:zap: Recent Activity:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4145](https://github.com/hoppscotch/hoppscotch/issues/4145#issuecomment-2396060938) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
