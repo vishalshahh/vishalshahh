@@ -1,4 +1,4 @@
-<img src="Assets/code.gif" alt="Header" style="margin-bottom: 0;" />
+![Header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h2> Hi there, I'm Vishal Shah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
@@ -45,15 +45,15 @@ Here are some things on my todo list.
 ## 📈 My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2037%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-179-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2025%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 72.5 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2024
+> 🏆 70 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,10 +64,10 @@ Here are some things on my todo list.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-🌆 Daytime                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-🌃 Evening                37 commits          █████████░░░░░░░░░░░░░░░░   34.26 % 
-🌙 Night                  57 commits          █████████████░░░░░░░░░░░░   52.78 % 
+🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+🌆 Daytime                9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+🌃 Evening                37 commits          ███████████░░░░░░░░░░░░░░   43.53 % 
+🌙 Night                  34 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
 ```
 
 
@@ -89,13 +89,10 @@ vishalshahh-main         1 hr 2 mins         █████░░░░░░�
 portfolio                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 resume                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-
-💻 Operating System: 
-Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/10/2024 22:00:43 UTC
+ Last Updated on 08/10/2024 20:45:49 UTC
 <!--END_SECTION:waka-->
 
 </br>
