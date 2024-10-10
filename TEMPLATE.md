@@ -1,4 +1,4 @@
-![Header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+<img src="Assets/code.gif" alt="Header" style="margin-bottom: 0;" />
 
 <h2> Hi there, I'm Vishal Shah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
@@ -46,7 +46,6 @@ Here are some things on my todo list.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2025%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -94,8 +93,6 @@ resume                   1 min               ░░░░░░░░░░░�
 
  Last Updated on 08/10/2024 20:45:49 UTC
 <!--END_SECTION:waka-->
-
-</br>
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=vishalshahh&theme=tokyo-night)
 
