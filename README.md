@@ -1,4 +1,4 @@
-![Header](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+<img src="Assets/code.gif" alt="Header" style="margin-bottom: 0;" />
 
 <h2> Hi there, I'm Vishal Shah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
@@ -45,22 +45,54 @@ Here are some things on my todo list.
 ## 📈 My GitHub Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2025%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
-```txt
-From: 03 October 2024 - To: 09 October 2024
+**🐱 My GitHub Data** 
 
-Total Time: 6 hrs 55 mins
+> 📦 72.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 70 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
-Markdown     6 hrs 4 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   87.76 %
-JavaScript   22 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.46 %
-HTML         17 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.10 %
-JSON         7 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.71 %
-TypeScript   3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.94 %
+```text
+🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+🌆 Daytime                9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+🌃 Evening                37 commits          ███████████░░░░░░░░░░░░░░   43.53 % 
+🌙 Night                  34 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
 ```
 
-<!--END_SECTION:waka-->
 
-</br>
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 5 hrs 2 mins        ██████████████████████░░░   89.65 % 
+JavaScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+🐱‍💻 Projects: 
+GIthub_Readme            3 hrs 57 mins       ██████████████████░░░░░░░   70.55 % 
+vishalshahh-main         1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+portfolio                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+resume                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+```
+
+
+ Last Updated on 08/10/2024 20:45:49 UTC
+<!--END_SECTION:waka-->
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=vishalshahh&theme=tokyo-night)
 
