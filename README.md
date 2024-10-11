@@ -45,29 +45,29 @@ Here are some things on my todo list.
 ## 📈 My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2055%20mins-313131)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-449-313131)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-313131)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-340-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2055%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 72.9 kB Used in GitHub's Storage 
  > 
-> 🏆 119 Contributions in the Year 2024
+> 🏆 111 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-🌆 Daytime                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-🌃 Evening                40 commits          ████████░░░░░░░░░░░░░░░░░   31.25 % 
-🌙 Night                  59 commits          ████████████░░░░░░░░░░░░░   46.09 % 
+🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+🌆 Daytime                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌙 Night                  59 commits          ████████████░░░░░░░░░░░░░   47.58 % 
 ```
 
 
@@ -95,7 +95,7 @@ Windows                  6 hrs 54 mins       ███████████�
 ```
 
 
- Last Updated on 10/10/2024 14:39:32 UTC
+ Last Updated on 10/10/2024 05:01:30 UTC
 <!--END_SECTION:waka-->
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=vishalshahh&theme=tokyo-night)
