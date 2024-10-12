@@ -40,6 +40,11 @@ Here are some things on my todo list.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/vishalshahh/Hacktoberfest2024-Java/pull/1) in [vishalshahh/Hacktoberfest2024-Java](https://github.com/vishalshahh/Hacktoberfest2024-Java)
+2. 💪 Opened PR [#1](https://github.com/vishalshahh/Hacktoberfest2024-Java/pull/1) in [vishalshahh/Hacktoberfest2024-Java](https://github.com/vishalshahh/Hacktoberfest2024-Java)
+3. 🎉 Merged PR [#1](https://github.com/vishalshahh/Searching/pull/1) in [vishalshahh/Searching](https://github.com/vishalshahh/Searching)
+4. 💪 Opened PR [#1](https://github.com/vishalshahh/Searching/pull/1) in [vishalshahh/Searching](https://github.com/vishalshahh/Searching)
+5. 🎉 Merged PR [#1](https://github.com/vishalshahh/dynamic/pull/1) in [vishalshahh/dynamic](https://github.com/vishalshahh/dynamic)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
