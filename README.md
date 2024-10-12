@@ -40,11 +40,11 @@ Here are some things on my todo list.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/vishalshahh/Hacktoberfest2024-Java/pull/1) in [vishalshahh/Hacktoberfest2024-Java](https://github.com/vishalshahh/Hacktoberfest2024-Java)
-2. 💪 Opened PR [#1](https://github.com/vishalshahh/Hacktoberfest2024-Java/pull/1) in [vishalshahh/Hacktoberfest2024-Java](https://github.com/vishalshahh/Hacktoberfest2024-Java)
-3. 🎉 Merged PR [#1](https://github.com/vishalshahh/Searching/pull/1) in [vishalshahh/Searching](https://github.com/vishalshahh/Searching)
-4. 💪 Opened PR [#1](https://github.com/vishalshahh/Searching/pull/1) in [vishalshahh/Searching](https://github.com/vishalshahh/Searching)
-5. 🎉 Merged PR [#1](https://github.com/vishalshahh/dynamic/pull/1) in [vishalshahh/dynamic](https://github.com/vishalshahh/dynamic)
+1. 🗣 Commented on [#3536](https://github.com/formbricks/formbricks/issues/3536#issuecomment-2408474609) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+2. 🎉 Merged PR [#1](https://github.com/vishalshahh/Hacktoberfest2024-Java/pull/1) in [vishalshahh/Hacktoberfest2024-Java](https://github.com/vishalshahh/Hacktoberfest2024-Java)
+3. 💪 Opened PR [#1](https://github.com/vishalshahh/Hacktoberfest2024-Java/pull/1) in [vishalshahh/Hacktoberfest2024-Java](https://github.com/vishalshahh/Hacktoberfest2024-Java)
+4. 🎉 Merged PR [#1](https://github.com/vishalshahh/Searching/pull/1) in [vishalshahh/Searching](https://github.com/vishalshahh/Searching)
+5. 💪 Opened PR [#1](https://github.com/vishalshahh/Searching/pull/1) in [vishalshahh/Searching](https://github.com/vishalshahh/Searching)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
