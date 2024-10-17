@@ -20,6 +20,7 @@ I am a software engineer with experience in the dynamic field of web3 and blockc
 ## 👷 Check out what I'm currently working on
 
 - [vishalshahh/parkify](https://github.com/vishalshahh/parkify) - A automated parking system.
+- [vishalshahh/docschat](https://github.com/vishalshahh/docschat) - Docschat lets users chat with PDFs for instant AI-powered insights.
 - [vishalshahh/my_portfolio](https://github.com/vishalshahh/my_portfolio) - A simple portfolio website built with Next.js and Typescript.
 
 ## 🌱 My latest projects
