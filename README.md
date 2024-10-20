@@ -40,41 +40,34 @@ Here are some things on my todo list.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3536](https://github.com/formbricks/formbricks/issues/3536#issuecomment-2408474609) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
-2. 🎉 Merged PR [#1](https://github.com/vishalshahh/Hacktoberfest2024-Java/pull/1) in [vishalshahh/Hacktoberfest2024-Java](https://github.com/vishalshahh/Hacktoberfest2024-Java)
-3. 💪 Opened PR [#1](https://github.com/vishalshahh/Hacktoberfest2024-Java/pull/1) in [vishalshahh/Hacktoberfest2024-Java](https://github.com/vishalshahh/Hacktoberfest2024-Java)
-4. 🎉 Merged PR [#1](https://github.com/vishalshahh/Searching/pull/1) in [vishalshahh/Searching](https://github.com/vishalshahh/Searching)
-5. 💪 Opened PR [#1](https://github.com/vishalshahh/Searching/pull/1) in [vishalshahh/Searching](https://github.com/vishalshahh/Searching)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2027%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-561-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-340-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2055%20mins-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 73.0 kB Used in GitHub's Storage 
+> 📦 72.9 kB Used in GitHub's Storage 
  > 
-> 🏆 164 Contributions in the Year 2024
+> 🏆 111 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-🌆 Daytime                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-🌃 Evening                60 commits          █████████░░░░░░░░░░░░░░░░   37.27 % 
-🌙 Night                  61 commits          █████████░░░░░░░░░░░░░░░░   37.89 % 
+🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+🌆 Daytime                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌙 Night                  59 commits          ████████████░░░░░░░░░░░░░   47.58 % 
 ```
 
 
@@ -84,25 +77,25 @@ Here are some things on my todo list.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 hrs 51 mins       ██████████████████░░░░░░░   71.70 % 
-JSON                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Bash                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Markdown                 6 hrs 4 mins        ██████████████████████░░░   88.01 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🐱‍💻 Projects: 
-docschat                 12 hrs 22 mins      ██████████████████████░░░   89.96 % 
-100xDevs                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Vishal Shah              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-parkify                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-chatpdf-yt               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+GIthub_Readme            3 hrs 57 mins       ██████████████░░░░░░░░░░░   57.43 % 
+vishalshahh-main         2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.06 % 
+portfolio                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+100xDevs                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  13 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/10/2024 14:37:41 UTC
+ Last Updated on 10/10/2024 05:01:30 UTC
 <!--END_SECTION:waka-->
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=vishalshahh&theme=tokyo-night)
