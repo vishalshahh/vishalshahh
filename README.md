@@ -40,6 +40,9 @@ Here are some things on my todo list.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#3536](https://github.com/formbricks/formbricks/issues/3536#issuecomment-2408474609) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+2. 🎉 Merged PR [#1](https://github.com/vishalshahh/Hacktoberfest2024-Java/pull/1) in [vishalshahh/Hacktoberfest2024-Java](https://github.com/vishalshahh/Hacktoberfest2024-Java)
+3. 💪 Opened PR [#1](https://github.com/vishalshahh/Hacktoberfest2024-Java/pull/1) in [vishalshahh/Hacktoberfest2024-Java](https://github.com/vishalshahh/Hacktoberfest2024-Java)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
