@@ -19,7 +19,8 @@ I am a software engineer with experience in the dynamic field of web3 and blockc
 
 ## 👷 Check out what I'm currently working on
 
-- [vishalshahh/parkify](https://github.com/vishalshahh/parkify) - A automated parking system.
+- [vishalshahh/parkify](https://github.com/vishalshahh/parkify) - Created Parkify, a platform for parking reservations and valet services.
+- [vishalshahh/Multithreaded_Webserver](https://github.com/vishalshahh/Multithreaded_Webserver) - Built a multi-threaded Java web server handling 600,000+ concurrent requests with optimized performance.
 - [vishalshahh/my_portfolio](https://github.com/vishalshahh/my_portfolio) - A simple portfolio website built with Next.js and Typescript.
 
 ## 🌱 My latest projects
