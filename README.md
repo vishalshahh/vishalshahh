@@ -46,19 +46,53 @@ Here are some things on my todo list.
 ## 📈 My GitHub Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2024%20mins-blue)
 
-```txt
-From: 03 October 2024 - To: 17 December 2024
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-Total Time: 63 hrs 24 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
-TypeScript    38 hrs 18 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.42 %
-Markdown      6 hrs 35 mins   ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.41 %
-JSON          6 hrs 33 mins   ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.34 %
-Bash          4 hrs           ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.33 %
-JavaScript    3 hrs 27 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.45 %
+**🐱 My GitHub Data** 
+
+> 📦 75.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 353 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+🌆 Daytime                101 commits         ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+🌃 Evening                189 commits         ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Java                     13 mins             ████████████████████░░░░░   81.05 % 
+TypeScript               3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+
+🐱‍💻 Projects: 
+Web Development          13 mins             ████████████████████░░░░░   81.05 % 
+parkify                  3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+
+💻 Operating System: 
+Windows                  16 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/12/2024 14:40:38 UTC
 <!--END_SECTION:waka-->
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=vishalshahh&theme=tokyo-night)
