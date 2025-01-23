@@ -46,19 +46,58 @@ Here are some things on my todo list.
 ## 📈 My GitHub Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2043%20mins-blue)
 
-```txt
-From: 03 October 2024 - To: 21 January 2025
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-Total Time: 63 hrs 24 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
-TypeScript    38 hrs 18 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.42 %
-Markdown      6 hrs 35 mins   ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.41 %
-JSON          6 hrs 33 mins   ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.34 %
-Bash          4 hrs           ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.33 %
-JavaScript    3 hrs 27 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.45 %
+**🐱 My GitHub Data** 
+
+> 📦 75.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 68 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+🌆 Daytime                136 commits         ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+🌃 Evening                259 commits         █████████████░░░░░░░░░░░░   53.62 % 
+🌙 Night                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               49 mins             ████████████████░░░░░░░░░   62.43 % 
+TypeScript               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+
+🐱‍💻 Projects: 
+CATALOG                  50 mins             ████████████████░░░░░░░░░   63.40 % 
+catalogs                 25 mins             ████████░░░░░░░░░░░░░░░░░   31.32 % 
+shamir                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Vishal Shah              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+
+💻 Operating System: 
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 23/01/2025 14:39:02 UTC
 <!--END_SECTION:waka-->
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=vishalshahh&theme=tokyo-night)
