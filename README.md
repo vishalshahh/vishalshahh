@@ -46,19 +46,52 @@ Here are some things on my todo list.
 ## 📈 My GitHub Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2033%20mins-blue)
 
-```txt
-From: 03 October 2024 - To: 10 February 2025
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
-Total Time: 72 hrs 15 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
-TypeScript    38 hrs 31 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.31 %
-JSON          6 hrs 46 mins   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.37 %
-Markdown      6 hrs 42 mins   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.29 %
-HTML          4 hrs 34 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.32 %
-JavaScript    4 hrs 17 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.93 %
+**🐱 My GitHub Data** 
+
+> 📦 75.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 128 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+🌆 Daytime                156 commits         ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+🌃 Evening                297 commits         ██████████████░░░░░░░░░░░   54.90 % 
+🌙 Night                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+CSS                      1 hr 57 mins        ████████████████░░░░░░░░░   63.37 % 
+HTML                     1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   36.63 % 
+
+🐱‍💻 Projects: 
+Coding                   3 hrs 5 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 12/02/2025 14:39:43 UTC
 <!--END_SECTION:waka-->
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=vishalshahh&theme=tokyo-night)
