@@ -41,37 +41,34 @@ Here are some things on my todo list.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#749](https://github.com/electron/website/issues/749#issuecomment-2701277466) in [electron/website](https://github.com/electron/website)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2053%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-340-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2055%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 75.7 kB Used in GitHub's Storage 
+> 📦 72.9 kB Used in GitHub's Storage 
  > 
-> 🏆 234 Contributions in the Year 2025
+> 🏆 111 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-🌆 Daytime                194 commits         ████████░░░░░░░░░░░░░░░░░   30.27 % 
-🌃 Evening                362 commits         ██████████████░░░░░░░░░░░   56.47 % 
-🌙 Night                  63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+🌆 Daytime                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌙 Night                  59 commits          ████████████░░░░░░░░░░░░░   47.58 % 
 ```
 
 
@@ -81,23 +78,25 @@ Here are some things on my todo list.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     11 mins             █████████░░░░░░░░░░░░░░░░   36.06 % 
-JavaScript               10 mins             ████████░░░░░░░░░░░░░░░░░   32.14 % 
-TypeScript               8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-Prisma                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Markdown                 6 hrs 4 mins        ██████████████████████░░░   88.01 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🐱‍💻 Projects: 
-parkify_rides            18 mins             ██████████████░░░░░░░░░░░   56.31 % 
-parkify                  14 mins             ███████████░░░░░░░░░░░░░░   42.78 % 
-Vishal Shah              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+GIthub_Readme            3 hrs 57 mins       ██████████████░░░░░░░░░░░   57.43 % 
+vishalshahh-main         2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.06 % 
+portfolio                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+100xDevs                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  6 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/03/2025 14:42:24 UTC
+ Last Updated on 10/10/2024 05:01:30 UTC
 <!--END_SECTION:waka-->
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=vishalshahh&theme=tokyo-night)
