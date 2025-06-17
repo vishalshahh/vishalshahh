@@ -27,6 +27,7 @@ I am a software engineer with experience in the dynamic field of web3 and blockc
 
 - [vishalshahh/interviewPrep](https://github.com/vishalshahh/interviewprep) - Developed an AI-powered interview platform using React, Next.js, Firebase, Gemini AI, and Vapi AI to conduct voice-based professional interviews and deliver candidate feedback.
 - [vishalshahh/parkify](https://github.com/vishalshahh/parkify) - Created Parkify, a platform for parking reservations and valet services.
+- [vishalshahh/snippy](https://github.com/vishalshahh/snippy) - Snippy — your pocket-sized snippet saver, ready to clip code and keep it cozy.
 - [vishalshahh/gorlabs](https://github.com/vishalshahh/gorlabs) - A microsaas platform to ship fast.
 - [vishalshahh/Imminent-Agent](https://github.com/vishalshahh/Imminent-Agent) - Built a web scraper using TypeScript, Next.js, and MongoDB to track Amazon prices in real-time.
 - [vishalshahh/Student_Attendance_System](https://github.com/vishalshahh/Student_Attendance_System) - Developed a student attendance system to monitor performance records.
@@ -48,31 +49,29 @@ Here are some things on my todo list.
 ## 📈 My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2027%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-340-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2055%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 78.8 kB Used in GitHub's Storage 
+> 📦 72.9 kB Used in GitHub's Storage 
  > 
-> 🏆 540 Contributions in the Year 2025
+> 🏆 111 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-🌆 Daytime                294 commits         ████████░░░░░░░░░░░░░░░░░   31.24 % 
-🌃 Evening                548 commits         ███████████████░░░░░░░░░░   58.24 % 
-🌙 Night                  72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+🌆 Daytime                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌙 Night                  59 commits          ████████████░░░░░░░░░░░░░   47.58 % 
 ```
 
 
@@ -82,25 +81,25 @@ Here are some things on my todo list.
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               20 hrs 16 mins      ████████████████████░░░░░   80.07 % 
-Other                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Markdown                 6 hrs 4 mins        ██████████████████████░░░   88.01 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🐱‍💻 Projects: 
-interviewprep            16 hrs              ████████████████░░░░░░░░░   63.26 % 
-snippets                 3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Next.js                  2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Imminent-Agent           1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-routing                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+GIthub_Readme            3 hrs 57 mins       ██████████████░░░░░░░░░░░   57.43 % 
+vishalshahh-main         2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.06 % 
+portfolio                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+100xDevs                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  25 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/06/2025 14:44:57 UTC
+ Last Updated on 10/10/2024 05:01:30 UTC
 <!--END_SECTION:waka-->
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=vishalshahh&theme=tokyo-night)
