@@ -28,6 +28,7 @@ I am a software engineer with experience in the dynamic field of web3 and blockc
 ## 🌱 My latest projects
 
 - [vishalshahh/interviewPrep](https://github.com/vishalshahh/interviewprep) - Developed an AI-powered interview platform using React, Next.js, Firebase, Gemini AI, and Vapi AI to conduct voice-based professional interviews and deliver candidate feedback.
+- [vishalshahh/tenantrix](https://github.com/vishalshahh/tenantrix) - Tenantrix — Multi-Tenant Blog Platform
 - [vishalshahh/parkify](https://github.com/vishalshahh/parkify) - Created Parkify, a platform for parking reservations and valet services.
 - [vishalshahh/snippy](https://github.com/vishalshahh/snippy) - Snippy — your pocket-sized snippet saver, ready to clip code and keep it cozy.
 - [vishalshahh/threadly](https://github.com/vishalshahh/threadly)) - Threadly — A Simple Threading App. Write Posts and Discuss it.
