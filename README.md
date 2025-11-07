@@ -48,6 +48,11 @@ Here are some things on my todo list.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#7](https://github.com/vishalshahh/sih_hackathon/issues/7) in [vishalshahh/sih_hackathon](https://github.com/vishalshahh/sih_hackathon)
+2. 💪 Opened PR [#12](undefined) in [vishalshahh/sih_hackathon](https://github.com/vishalshahh/sih_hackathon)
+3. 🔒 Closed issue [#6](https://github.com/vishalshahh/sih_hackathon/issues/6) in [vishalshahh/sih_hackathon](https://github.com/vishalshahh/sih_hackathon)
+4. 💪 Opened PR [#11](undefined) in [vishalshahh/sih_hackathon](https://github.com/vishalshahh/sih_hackathon)
+5. 🔒 Closed issue [#5](https://github.com/vishalshahh/sih_hackathon/issues/5) in [vishalshahh/sih_hackathon](https://github.com/vishalshahh/sih_hackathon)
 <!--END_SECTION:activity-->
 
 ## 📈 My GitHub Stats
