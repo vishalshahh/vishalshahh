@@ -5,7 +5,7 @@
 <img align="right" src="Assets/falcon.png" width='150'/>
 
 [
-![Website](https://img.shields.io/badge/Portfolio-CC5500?style=for-the-badge&logo=&logoColor=white)](https://vishalshah.vercel.app/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalshahh) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishalshahh) [![Leetcode](https://img.shields.io/badge/leetcode-B22211?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vishal0015/) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vishalshahh)
+![Website](https://img.shields.io/badge/Portfolio-CC5500?style=for-the-badge&logo=&logoColor=white)](https://vishy.dev/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalshahh) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vishalshahh) [![Leetcode](https://img.shields.io/badge/leetcode-B22211?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vishal0015/) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vishalshahh)
 
 
 I am a software engineer with experience in the dynamic field of frontend and web3, specializing in React, TypeScript and Next.js. Additionally, I am exploring Rust and actively engaging in the open-source community to collaborate and share knowledge.
