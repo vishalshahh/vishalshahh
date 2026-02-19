@@ -8,17 +8,18 @@
 ![Website](https://img.shields.io/badge/Portfolio-CC5500?style=for-the-badge&logo=&logoColor=white)](https://vishalshah.vercel.app/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalshahh) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishalshahh) [![Leetcode](https://img.shields.io/badge/leetcode-B22211?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vishal0015/) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vishalshahh)
 
 
-I am a software engineer with experience in the dynamic field of web3 and blockchain, specializing in TypeScript and Next.js. Additionally, I am exploring Rust and actively engaging in the open-source community to collaborate and share knowledge.
+I am a software engineer with experience in the dynamic field of frontend and web3, specializing in React, TypeScript and Next.js. Additionally, I am exploring Rust and actively engaging in the open-source community to collaborate and share knowledge.
 
 ## 👨‍💻 Professional Skills
 
--  **Language:** Java, Python, JavaScript, TypeScript, React
+-  **Language:** Java, React, JavaScript, TypeScript
 -  **Technologies/Frameworks:** NextJs:14, Node.js:18, ExpressJS
--  **DevOps:** Google Cloud, Docker, Kubernetes, Redis
--  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB, GraphQL)
+-  **DevOps:** Google Cloud, Docker
+-  **Database:** Relational Database (MySQL, PostgreSQL) / Non-Relational Database (MongoDB, GraphQL)
 
 ## 👷 Check out what I'm currently working on
 
+- [vishalshahh/perfectly-yours] - Deliver a cinematic, high-performance Valentine website with dynamic cursor effects, structured animations, and seamless user interactions.
 - [vishalshahh/interviewPrep](https://github.com/vishalshahh/interviewprep) - Developed an AI-powered interview platform using React, Next.js, Firebase, Gemini AI, and Vapi AI to conduct voice-based professional interviews and deliver candidate feedback.
 - [vishalshahh/snippy](https://github.com/vishalshahh/snippy) - Snippy — your pocket-sized snippet saver, ready to clip code and keep it cozy.
 - [vishalshahh/threadly](https://github.com/vishalshahh/threadly)) - Threadly — A Simple Threading App. Write Posts and Discuss it.
@@ -27,6 +28,7 @@ I am a software engineer with experience in the dynamic field of web3 and blockc
 
 ## 🌱 My latest projects
 
+- [vishalshahh/perfectly-yours] - Deliver a cinematic, high-performance Valentine website with dynamic cursor effects, structured animations, and seamless user interactions.
 - [vishalshahh/interviewPrep](https://github.com/vishalshahh/interviewprep) - Developed an AI-powered interview platform using React, Next.js, Firebase, Gemini AI, and Vapi AI to conduct voice-based professional interviews and deliver candidate feedback.
 - [vishalshahh/tenantrix](https://github.com/vishalshahh/tenantrix) - Tenantrix — Multi-Tenant Blog Platform
 - [vishalshahh/parkify](https://github.com/vishalshahh/parkify) - Created Parkify, a platform for parking reservations and valet services.
@@ -41,7 +43,6 @@ I am a software engineer with experience in the dynamic field of web3 and blockc
 
 Here are some things on my todo list.
 - _Started learning Rust._ 🧙🏽‍♂️
-- _Completed my latest project parkify_ 👷
 - _Starting to work on Web3 projects_ ⚙️
 - _Consistent to do post daily on Twitter._ ❤️
 
