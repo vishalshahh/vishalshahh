@@ -53,19 +53,51 @@ Here are some things on my todo list.
 ## 📈 My GitHub Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2059%20mins-blue?style=flat)
 
-```txt
-From: 03 October 2024 - To: 11 July 2026
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
 
-Total Time: 133 hrs 59 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.39%20million%20lines%20of%20code-blue?style=flat)
 
-TypeScript    73 hrs 15 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.67 %
-JSON          14 hrs 17 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.66 %
-JavaScript    10 hrs 11 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.60 %
-HTML          7 hrs 29 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.59 %
-Markdown      7 hrs 13 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.39 %
+**🐱 My GitHub Data** 
+
+> 📦 256.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 634 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 55 Public Repositories 
+ > 
+> 🔑 17 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+🌆 Daytime                789 commits         ████████░░░░░░░░░░░░░░░░░   30.43 % 
+🌃 Evening                1481 commits        ██████████████░░░░░░░░░░░   57.12 % 
+🌙 Night                  191 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 13/07/2026 16:56:55 UTC
 <!--END_SECTION:waka-->
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=vishalshahh&theme=tokyo-night)
